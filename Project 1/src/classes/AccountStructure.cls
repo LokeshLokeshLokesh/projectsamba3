@@ -23,6 +23,7 @@ public with sharing class AccountStructure{
     //Declare variables
     
     //tets
+    
     public String currentId;
     public List<ObjectStructureMap> asm ;
     public Map<String, ObjectStructureMap> masm;
